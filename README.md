@@ -3,7 +3,7 @@
 ## Description
 20,000 Image caption data of diverse scenes including natural scenes, urban street scenes, exhibitions, family environments and other scenes, shot with different brands of cameras, including multiple time periods, multiple shooting angles, description language is English, mainly describes the main scenes in the image, usually including foreground and background description.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1283?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1283?source=Github
 
 
 ## Data size
